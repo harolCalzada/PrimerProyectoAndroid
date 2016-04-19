@@ -9,7 +9,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
 
     tools:context="com.example.calzada.harol.miprimeraaplicacionandroid.MainActivity"
-    android:background="@drawable/back">
+    android:background="@drawable/fondo_marciano_final">
 
     <TextView
         android:layout_width="wrap_content"
